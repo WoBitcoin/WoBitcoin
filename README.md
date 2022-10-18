@@ -1,10 +1,8 @@
-<p align="center">
-<a title="Página Web de Watch Out Bitcoin" href="https://wobitcoin.org/">
-  ![icono naranja](https://user-images.githubusercontent.com/58108487/195281571-e7d4f189-c391-483c-9cb3-fc73a2aa1d63.png)
-  </a>
-  </p>
-  [![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/WoBitcoin)
 
+  ![icono naranja](https://user-images.githubusercontent.com/58108487/195281571-e7d4f189-c391-483c-9cb3-fc73a2aa1d63.png)
+ 
+  [![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/WoBitcoin)
+[![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/robosats)
 
 # WoBitcoin
 Este repositorio tiene como finalidad recabar ideas, iniciativas y/o comentarios que permitan la creación de contenido y charlas para el evento WoBitcoin, evento Bitcoin only de habla hispana.
