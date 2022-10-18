@@ -1,6 +1,7 @@
 
+<div align="center">
   ![icono naranja](https://user-images.githubusercontent.com/58108487/195281571-e7d4f189-c391-483c-9cb3-fc73a2aa1d63.png)
- 
+ </div>
   [![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/WoBitcoin)
 [![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/robosats)
 
