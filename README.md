@@ -2,6 +2,13 @@
 ![icono naranja](https://user-images.githubusercontent.com/58108487/195281571-e7d4f189-c391-483c-9cb3-fc73a2aa1d63.png)
 [![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/WoBitcoin)
 
+<style>
+img.tutorial {
+    width: 400px;
+    border: 4px solid orange;
+}
+</style>
+
 # WoBitcoin
 Este repositorio tiene como finalidad recabar ideas, iniciativas y/o comentarios que permitan la creación de contenido y charlas para el evento WoBitcoin, evento Bitcoin only de habla hispana.
 
@@ -17,11 +24,15 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
 2. Habiendo iniciado sesión en GitHub.com con tu usuario, navega a la página de este repositorio de nuevo (https://github.com/WoBitcoin/WoBitcoin).
 3. Pincha en el botón "Fork" ubicado a la derecha:
 
-   ![Cómo hacer Fork](/assets/guide/fork.png?raw=true "Cómo hacer Fork")
+  
+   <img src="/assets/guide/fork.png" alt="Cómo hacer Fork" title="Cómo hacer Fork" class="tutorial" />
  
   Esta acción hará una copia de este repositorio en tu cuenta. Es decir, se creará un clon de este repositorio en tu cuenta. En esa copia podrás hacer los cambios que quieras.
 4. Ya en el repositorio clonado en tu cuenta, ve a las "Ramas" o "Branches":
-   ![Ramas](/assets/guide/branches.png?raw=true "Ramas")
+
+   <img src="/assets/guide/branches.png" alt="Ramas" title="Ramas" class="tutorial" />
+
+
 5. Crea una nueva rama para esa nueva propuesta de charla. Pon un nombre descriptivo para la rama y sobre todo elige que esa rama "esté conectada" al repositorio principal de WoBitcoin.
    ![Nueva rama](/assets/guide/newBranch.png?raw=true "Nueva rama")
    ![Datos para nueva rama](/assets/guide/branchDetails.png?raw=true "Datos para nueva rama")
