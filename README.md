@@ -20,6 +20,7 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
  <img src="/assets/guide/fork.png" width="300" alt="Cómo hacer Fork" title="Cómo hacer Fork" />
 
   Esta acción hará una copia de este repositorio en tu cuenta. Es decir, se creará un clon de este repositorio en tu cuenta. En esa copia podrás hacer los cambios que quieras.
+
 4. Ya en el repositorio clonado en tu cuenta, ve a las "Ramas" o "Branches":
 
     <img src="/assets/guide/branches.png" width="300" alt="Ramas" title="Ramas" />
@@ -27,6 +28,7 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
 5. Crea una nueva rama para esa nueva propuesta de charla. Pon un nombre descriptivo para la rama y sobre todo elige que esa rama "esté conectada" al repositorio principal de WoBitcoin.
 
        <img src="/assets/guide/newBranch.png" width="300" alt="Nueva rama" title="Nueva rama" />
+       <br>
  <img src="/assets/guide/branchDetails.png" width="300" alt="Datos para nueva rama" title="Datos para nueva rama" />
 
 6. Una vez creada, ve al código "Code", y en el desplegable de ramas, elige la rama nueva sobre la que deseas trabajar:
@@ -52,7 +54,7 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
 
 4. Da un nombre al fichero, y pega el contenido de la plantilla, modificando los datos que necesites transmitir para la realización de la charla:
 
-       <img src="/assets/guide/newTalk.png" width="300" alt="Detalles de nueva propuesta de charla" title="Detalles de nueva propuesta de charla" />
+ <img src="/assets/guide/newTalk.png" width="300" alt="Detalles de nueva propuesta de charla" title="Detalles de nueva propuesta de charla" />
 
 
 5. Abajo del todo, si quieres poner una descripción del cambio que grabas, y elige la opción de "Commit directly to the main branch." 
