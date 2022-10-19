@@ -25,12 +25,12 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
 3. Pincha en el botón "Fork" ubicado a la derecha:
 
   
-   <img src="/assets/guide/fork.png" alt="Cómo hacer Fork" title="Cómo hacer Fork" class="tutorial" />
+   <img src="/assets/guide/fork.png" alt="Cómo hacer Fork" title="Cómo hacer Fork" style=" width: 400px; border: 4px solid orange;" />
  
   Esta acción hará una copia de este repositorio en tu cuenta. Es decir, se creará un clon de este repositorio en tu cuenta. En esa copia podrás hacer los cambios que quieras.
 4. Ya en el repositorio clonado en tu cuenta, ve a las "Ramas" o "Branches":
 
-   <img src="/assets/guide/branches.png" alt="Ramas" title="Ramas" class="tutorial" />
+   <img src="/assets/guide/branches.png" alt="Ramas" title="Ramas" class="tutorial" style=" width: 400px; border: 4px solid orange;" />
 
 
 5. Crea una nueva rama para esa nueva propuesta de charla. Pon un nombre descriptivo para la rama y sobre todo elige que esa rama "esté conectada" al repositorio principal de WoBitcoin.
