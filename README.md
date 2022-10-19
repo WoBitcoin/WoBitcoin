@@ -57,4 +57,5 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
 
   ![Confirmación de tu propuesta](/assets/guide/confirmPullRequest.png?raw=true "Confirmación de tu propuesta")
 
+8. ¡Y ya está! Tu propuesta ya está en el horno, sólo espera que el equipo de Watch Out Bitcoin ponga comentarios a tu propuesta o la acepte directamente.
 
