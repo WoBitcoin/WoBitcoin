@@ -1,7 +1,6 @@
 
 ![icono naranja](https://user-images.githubusercontent.com/58108487/195281571-e7d4f189-c391-483c-9cb3-fc73a2aa1d63.png)
-![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/WoBitcoin)
-
+[![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/WoBitcoin)
 
 # WoBitcoin
 Este repositorio tiene como finalidad recabar ideas, iniciativas y/o comentarios que permitan la creación de contenido y charlas para el evento WoBitcoin, evento Bitcoin only de habla hispana.
@@ -33,9 +32,9 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
   
  7. Ya estás posicionado en la rama para trabajar.
 
-### Crear una nueva charla
+### Crear el fichero para la charla y subir tu propuesta
 
-1. Posicionado en la rama que deseas usar para proponer la charla, entra en la carpeta "propuestas". Para ello, haz click en la carpeta "propuestas" que se visualiza en la raíz del repositorio:
+1. Entra en la carpeta "propuestas". Para ello, haz click en la carpeta "propuestas" que se visualiza en la raíz del repositorio:
 
    ![icono naranja](/assets/guide/proposalFolder.png?raw=true "Carpeta propuestas")
  2. Pincha en el fichero "template". Este contiene la plantilla de datos para crear una charla. Copia su contenido porque lo vamos a pegar en un fichero nuevo:
@@ -46,4 +45,16 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
 
    ![Detalles de nueva propuesta de charla](/assets/guide/newTalk.png?raw=true "Detalles de nueva propuesta de charla")
 
-5. Abajo del todo, si quieres poner una descripción del cambio que grabas, y presiona el botón "Commit new file".
+5. Abajo del todo, si quieres poner una descripción del cambio que grabas, y elige la opción de "Commit directly to the main branch." 
+
+  ![Creación de la propuesta](/assets/guide/newCommit.png?raw=true "Creación de la nueva propuesta")
+
+6. Una vez creado, ve a la opción de "Contribute", ubicada a la derecha:
+
+  ![Opción de proponer tu cambio](/assets/guide/newPullRequest.png?raw=true "Opción de proponer tu cambio")
+
+7. Verás una pantalla similar a esta, donde se resume el cambio que quieres proponer al repositorio general de WoB. Abajo verás el contenido del fichero que vas a proponer para la subida:
+
+  ![Confirmación de tu propuesta](/assets/guide/confirmPullRequest.png?raw=true "Confirmación de tu propuesta")
+
+
