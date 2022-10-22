@@ -1,5 +1,6 @@
 
 ![icono naranja](https://user-images.githubusercontent.com/58108487/195281571-e7d4f189-c391-483c-9cb3-fc73a2aa1d63.png)
+<br>
 [![Telegram](https://img.shields.io/badge/chat-telegram-brightgreen)](https://t.me/WoBitcoin)
 
 # WoBitcoin
@@ -25,20 +26,21 @@ Estamos empezando y no somos expertos en la gestión y uso de github, sin embarg
 
     <img src="/assets/guide/branches.png" width="400" alt="Ramas" title="Ramas" />
 
-5. Crea una nueva rama para esa nueva propuesta de charla. Pon un nombre descriptivo para la rama y sobre todo elige que esa rama "esté conectada" al repositorio principal de WoBitcoin.
+5. Crea una nueva rama para esa nueva propuesta de charla. 
+ <img src="/assets/guide/newBranch.png" width="400" alt="Nueva rama" title="Nueva rama" />
 
-       <img src="/assets/guide/newBranch.png" width="400" alt="Nueva rama" title="Nueva rama" />
-       <br>
- <img src="/assets/guide/branchDetails.png" width="400" alt="Datos para nueva rama" title="Datos para nueva rama" />
 
-6. Una vez creada, ve al código "Code", y en el desplegable de ramas, elige la rama nueva sobre la que deseas trabajar:
+6. Pon un nombre descriptivo para la rama y sobre todo elige que esa rama "esté conectada" al repositorio principal de WoBitcoin.
+    <img src="/assets/guide/branchDetails.png" width="400" alt="Datos para nueva rama" title="Datos para nueva rama" />   
+  
+7. Una vez creada, ve al código "Code", y en el desplegable de ramas, elige esa rama sobre la que deseas trabajar:
 
  
  <img src="/assets/guide/selectBranch.png" width="400" alt="Selección de rama" title="Selección de rama" />
 
 
   
- 7. Ya estás posicionado en la rama para trabajar.
+ 8. Ya estás posicionado en la rama para trabajar.
 
 ### Crear el fichero para la charla y subir tu propuesta
 
