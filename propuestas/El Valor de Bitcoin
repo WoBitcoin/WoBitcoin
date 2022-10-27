@@ -1,0 +1,18 @@
+WoBitcoin 2023
+El valor del Bitcoin
+
+Aunque a los Bitcoiners no nos gusta hablar del precio y miramos mucho mas que un grafico de velas para comprender el valor que tiene Bitcoin,
+puede ser muy interesante poder calcular el valor teorico y futuro de la red de Bitcoin y por tanto del token btc desde diferentes perspectivas
+
+Puntos a desarrollar
+Valoracion de Bitcoin y por tanto conseguir calcular un precio objetivo desde diferentes métricas como pueden ser el coste de produccion, el Stock to Flow Model,
+el Factor Model, el Adption Model, capitalizacion de similares o cualquier otro modelo que pueda tener sentido a la hora de obtener este valor futuro.
+
+Candidatos
+- Gael Sanchez Smith??
+- Manuel Polavieja??
+- Santiago Niño Becerra??
+- Algun ponente de la escuela de Value Investing??
+
+
+Dentro de este Pull Request (PR) se irán juntando y publicando todas aquellas propuestas para crear nuevas ponencias, charlas o talleres.
