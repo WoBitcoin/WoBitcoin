@@ -1,0 +1,22 @@
+[Nombre charla o taller]
+Descenso de los rewards por halving, ¿llegará a ser un problema?
+
+[Descripción]
+Charla que aborda la situación de que en unos pocos halvings, la reward por bloque bajará sustancialmente, y si para ese entonces no hay adopción suficiente, 
+posiblemente el precio no acompañe o bien no haya suficiente demanda por los bloques haciendo que las fees no sean suficiente para compensar.
+En este escenario, quizás no sea rentable minar, por lo que podría llevar a una espiral de caída de Bitcoin.
+Es algo que siempre sale como "vulnerabilidades" de Bitcoin, y a muchos es un tema que les preocupa.
+
+[Puntos a desarrollar]
+- Influencia del precio de Bitcoin para los mineros
+- Rentabilidad de los mineros según precio de Bitcoin
+- Cuánto debería costar 1 BTC en cada período de Halving para mantener el Hashrate en condiciones que protejan la red
+- Cuánto debería ser la fee media o la demanda por bloques en rewards menores a 1BTC para que los mineros puedan ser rentables 
+
+[Candidatos (es el nombre de aquellas personas que se tengan indetificado para poder realizar esta charla o taller)]
+Elías (Minerset)
+Guzmán Pintos (Luxor)
+dev7ba (creador de la web mempoolexplorer.com que mide la ocupación de las mempool)
+Gael Sánchez Smith
+
+Dentro de este Pull Request (PR) se irán juntando y publicando todas aquellas propuestas para crear nuevas ponencias, charlas o talleres.
